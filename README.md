@@ -1,4 +1,4 @@
 HBH-v2
 ======
 
-This is the new framework for http://www.hellboundhackers.org
+This version of http://www.hellboundhackers.org is called HBH-v2 and is the current development version.
